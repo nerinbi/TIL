@@ -12,9 +12,9 @@ Today I Learned
 * github todo 공부
  * create project
  * add todo 
- 
+
 * github tutorial 공부
- *[깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)
+ * [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)
 
 ## 20190711
 * Kanban Setting

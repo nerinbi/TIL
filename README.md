@@ -11,7 +11,7 @@ Today I Learned
 ##20190710
 * github todo 공부
  * create project
- * add a todo
+ * add todo 
  
 * github tutorial 공부
  *[깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)
